@@ -155,7 +155,7 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363279142099991@newsletter',
+            newsletterJid: '120363420537894461@newsletter',
             newsletterName: '𝕯𝕏ꜰ(HUSNAIN🇵🇰)',
             serverMessageId: -1
         }
